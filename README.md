@@ -1,0 +1,1 @@
+🖥 téc em informática
