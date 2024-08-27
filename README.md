@@ -41,6 +41,5 @@ print ("       XXXX      ")
 
 
 print("Qual nome do usuário?") 
-nome=input("nome")
-
+nome=input("nome:")
 
