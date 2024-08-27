@@ -27,4 +27,7 @@ print("2 - Altera")
 print("3 - Exclui")
 print("4 - Consulta")
 
+print("Qual nome do usuário?") 
+nome=input("nome")
+
 
