@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👩‍💻 Técnica em Informática <br>📚 Graduanda em Análise e Desenvolvimento de Sistemas <br>
+<p align="left">👩‍💻 Técnica em Informática <br>📚 Cursando Análise e Desenvolvimento de Sistemas <br>
 
 ###
 
